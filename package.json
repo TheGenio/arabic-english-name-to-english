@@ -1,0 +1,19 @@
+{
+  "name": "arabic-english-name-to-english",
+  "version": "1.0.0",
+  "description": "Do you have arabic english names like Abdulrahman that you want to turn to arabic equivalent? You can use this package to do so :)",
+  "main": "dist/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheGenio/arabic-english-name-to-english"
+  },
+  "keywords": [
+    "arabic",
+    "name",
+    "mapper",
+    "translator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
